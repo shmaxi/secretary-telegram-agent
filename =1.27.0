@@ -1,0 +1,13 @@
+Requirement already satisfied: opentelemetry-api in /Users/shmax/anaconda3/lib/python3.11/site-packages (1.24.0)
+Collecting opentelemetry-api
+  Using cached opentelemetry_api-1.36.0-py3-none-any.whl.metadata (1.5 kB)
+Requirement already satisfied: importlib-metadata<8.8.0,>=6.0 in /Users/shmax/anaconda3/lib/python3.11/site-packages (from opentelemetry-api) (7.0.0)
+Requirement already satisfied: typing-extensions>=4.5.0 in /Users/shmax/anaconda3/lib/python3.11/site-packages (from opentelemetry-api) (4.14.1)
+Requirement already satisfied: zipp>=0.5 in /Users/shmax/anaconda3/lib/python3.11/site-packages (from importlib-metadata<8.8.0,>=6.0->opentelemetry-api) (3.23.0)
+Using cached opentelemetry_api-1.36.0-py3-none-any.whl (65 kB)
+Installing collected packages: opentelemetry-api
+  Attempting uninstall: opentelemetry-api
+    Found existing installation: opentelemetry-api 1.24.0
+    Uninstalling opentelemetry-api-1.24.0:
+      Successfully uninstalled opentelemetry-api-1.24.0
+Successfully installed opentelemetry-api-1.36.0
